@@ -1,1 +1,1 @@
-opencv_python-2.4.13-cp27-cp27m-win32.whl
+opencv_python-2.4.13-cp27-none-win32.whl
