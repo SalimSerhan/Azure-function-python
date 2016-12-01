@@ -9,6 +9,7 @@ import sys, os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'lib')))
 
 import json
+import cv2
 from AzureHTTPHelper import HTTPHelper
 
 # This is a little class used to abstract away some basic HTTP functionality
